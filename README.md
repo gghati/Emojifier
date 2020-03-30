@@ -11,7 +11,7 @@ So rather than writing:
 The emojifier can automatically turn this into:
 >"Congratulations on the promotion! 👍 Let's get coffee and talk. ☕️ Love you! ❤️"
 
-This NLP project Predict the Emojis for the Given Text, Using LSTM as a 
+This is a NLP project to Predict the Emojis for the Given Text, Using LSTM Structure.
 
 ## Baseline model: Emojifier
 
@@ -35,7 +35,7 @@ Embedding layer
 
 ### Overview of the LSTM model
 
-Here is the Emojifier you will implement:
+This is the LSMT structure that we're going use for prediction:
 
 <img src="images/emojifier-v2.png" style="width:700px;height:400px;"> <br>
 Emojifier. A 2-layer LSTM sequence classifier.
